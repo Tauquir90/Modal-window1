@@ -44,7 +44,7 @@ for (let i = 0; i <= noOfDrum; i++)
                     tom3.play();
                     break;
 
-             case 'k':
+             case 'l':
                         let tom4 = new Audio("sounds/tom-4.mp3");
                         tom4.play();
                         break;
